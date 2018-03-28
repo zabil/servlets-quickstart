@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+.gradle/
+build/
+*.iml
+.env
+.settings/org.eclipse.buildship.core.prefs
+.classpath
+*.class
